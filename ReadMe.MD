@@ -28,6 +28,14 @@
         on linux_amd64
      ```
 
+### Running OpenTofu commands
+
+```tofu init```
+
+```tofu plan```
+
+```tofu apply```     
+
 ### Resources
 1* https://github.com/opentofu/opentofu
 
