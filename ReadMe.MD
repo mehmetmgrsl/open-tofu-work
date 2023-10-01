@@ -1,5 +1,3 @@
-# WIP
-
 ### Precondition
 
 - Installing Golang v1.20.7
@@ -28,7 +26,7 @@
         on linux_amd64
      ```
 
-### Running OpenTofu commands
+### Running OpenTofu commands to create an EC2 instance on AWS
 
 ```tofu init```
 
